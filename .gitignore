@@ -1,0 +1,8 @@
+archive/*
+backup/*
+lib/*
+prodText/*
+src/__pycache__
+src/bk_creds.py
+tmpText/*
+dues.xlsx
